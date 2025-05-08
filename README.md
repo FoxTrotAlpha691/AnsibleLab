@@ -1,0 +1,2 @@
+# AnsibleLab
+First Ansible repository
